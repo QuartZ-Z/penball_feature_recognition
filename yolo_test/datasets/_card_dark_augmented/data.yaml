@@ -1,0 +1,7 @@
+path: ./_card_dark_augmented
+train: train/images
+val: val/images
+test: 
+
+names:
+  0: 'circle'

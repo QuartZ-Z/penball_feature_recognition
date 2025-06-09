@@ -1,0 +1,8 @@
+path: ./_a4_empty_full_augmented
+train: train/images
+val: val/images
+test: 
+
+names:
+  0: 'white'
+  1: 'black'

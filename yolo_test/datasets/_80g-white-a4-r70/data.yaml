@@ -1,0 +1,9 @@
+path: ./_80g-white-a4-r70
+train:
+val:
+test: test/images
+
+names:
+  0: 'circle'
+  1: 'square'
+  2: 'triangle'

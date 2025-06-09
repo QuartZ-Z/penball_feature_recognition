@@ -1,0 +1,7 @@
+path: ./_a4_empty_8
+train: train/images
+val: val/images
+test: 
+
+names:
+  0: 'circle'
